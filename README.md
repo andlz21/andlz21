@@ -1,4 +1,5 @@
-### Hi there 👋 , André here!
+  ## <p align='center'> Hi there 👋 , André here!
+  </p>
   <br>  
   
   ### Desenvolvedor Front-End em formação.  ADS 2021. 🎓
