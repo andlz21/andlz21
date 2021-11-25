@@ -35,7 +35,7 @@
    <hr>
   
  ##   <p align='center'> 📝 Contate-me ↓ </p>
-  <br>
+  
   
   <div align='center'>
   <a href="https://www.linkedin.com/in/andlz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;
