@@ -34,7 +34,7 @@
    <br>
    <hr>
   
- ## 📝 Contate-me:
+ ##   <p align='center'> 📝 Contate-me ↓ </p>
   <br>
   
   <div align='center'>
