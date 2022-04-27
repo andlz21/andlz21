@@ -2,12 +2,12 @@
   </p>
   <br>  
   
-  ### Desenvolvedor Front-End em formação.  ADS 2021. 🎓
+  ### Desenvolvedor Front-End.  ADS 2021. 🎓
   <br>
   
   - ⚽ Apaixonado por futebol, jogos 🎮 e tudo que envolve tecnologia 💻
  
-  - 🎓 Me dedicando em  **HTML, CSS & JavaScript.**
+  - 🎓 Me dedicando em  **Front-end / Mobile**
   
   -  →  <ins><em>**ATUALMENTE EM**</em></ins>: JAVASCRIPT & REACT JS!
   
