@@ -22,7 +22,6 @@
  
   ###  <p align='center'>  🚀  **<em>Next steps**</em>  ↓ </p>
   <br>
-  <br>
   
   <div align='center'>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;
@@ -33,7 +32,6 @@
   <br>
   
   ###  <p align='center'>  📱  **<em>Mobile**</em>  ↓ </p>
-  <br>
   <br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;
