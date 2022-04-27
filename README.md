@@ -9,7 +9,7 @@
  
   - 🎓 Me dedicando em  **HTML, CSS & JavaScript.**
   
-  - ATUALMENTE EM:  REACT JS!
+  -  →  <ins><em>**ATUALMENTE EM**</em></ins>: JAVASCRIPT & REACT JS!
   
   <br>
 
