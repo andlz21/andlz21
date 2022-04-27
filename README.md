@@ -7,7 +7,7 @@
   
   - ⚽ Apaixonado por futebol, jogos 🎮 e tudo que envolve tecnologia 💻
  
-  - 🎓 Me dedicando em  **HTML, CSS & JavaScript.**
+  - 🎓 Me dedicando em  **HTML, CSS & JavaScript. ATUALMENTE: <p color='red'>REACT JS</p>**
   
   <br>
 
