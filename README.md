@@ -7,7 +7,7 @@
   
   - ⚽ Apaixonado por futebol, jogos 🎮 e tudo que envolve tecnologia 💻
  
-  - 🎓 Me dedicando em  **Front-end / Mobile**
+  - 🎓 Me dedicando em Desenvolvimento **Front-end / Mobile**
   
   -  →  <ins><em>**ATUALMENTE EM**</em></ins>: JAVASCRIPT & REACT JS!
   
