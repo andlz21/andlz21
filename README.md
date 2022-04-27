@@ -2,7 +2,7 @@
   </p>
   <br>  
   
-  ### Desenvolvedor Front-End.  ADS 2021. 🎓
+ ### Desenvolvedor Front-End.  ADS 2021. 🎓
   <br>
   
   - ⚽ Apaixonado por futebol, jogos 🎮 e tudo que envolve tecnologia 💻
