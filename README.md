@@ -7,7 +7,7 @@
   
   - ⚽ Apaixonado por futebol, jogos 🎮 e tudo que envolve tecnologia 💻
  
-  - 🎓 Me dedicando em Desenvolvimento **Front-end**
+  - 🎓 Me dedicando em Desenvolvimento **Front-end** & descobrindo o **Mobile**
   
   -  →  <ins><em>**ATUALMENTE EM**</em></ins>: REACT JS / Flutter !
   
