@@ -9,7 +9,7 @@
  
   - 🎓 Me dedicando em Desenvolvimento **Front-end**
   
-  -  →  <ins><em>**ATUALMENTE EM**</em></ins>: JAVASCRIPT & REACT JS!
+  -  →  <ins><em>**ATUALMENTE EM**</em></ins>: REACT JS / Flutter !
   
   <br>
 
